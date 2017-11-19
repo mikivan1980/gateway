@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="dcm4che-core-5.10.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/dcm4che-core-5.10.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dcm4che-net-5.10.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dcm4che-tool-common-5.10.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
